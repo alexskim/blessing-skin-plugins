@@ -1,0 +1,12 @@
+{
+  "name": "language-fix",
+  "version": "0.0.6",
+  "title": "语言修复",
+  "description": "修复HTML的全局属性lang不正确",
+  "author": "Alex_skim",
+  "url": "https://www.asjks.cc:2083",
+  "namespace": "LangFix",
+  "require": {
+    "blessing-skin-server": "*"
+  }
+}
